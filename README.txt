@@ -1,8 +1,7 @@
 Cori Jacoby
 Comp 20 Assignment 1
 
-To my knowledge everything has been implemented correctly except for the image
-in index.html. I'm not sure why the link is broken but it isn't working as of now.
+To my knowledge everything has been implemented correctly.
 
 I worked along on this assignment except for help from the course staff.
 
