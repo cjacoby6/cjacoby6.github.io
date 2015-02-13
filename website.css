@@ -1,7 +1,8 @@
 body {
 	font-family: Courier, "Lucinda Console";
 	font-size: 15px;
-	background-color: #BDFFFF;
+	background-image: images/cascades.jpg;
+	background-position: center;
 }
 
 .section {
@@ -14,6 +15,7 @@ body {
 }
 
 #title {
+	background-color: gray;
 	text-align: center;
 }
 
@@ -22,5 +24,6 @@ body {
 }
 
 #bio {
+	background-color: gray;
 	text-align: center;
 }
