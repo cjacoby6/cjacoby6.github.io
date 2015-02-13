@@ -12,3 +12,15 @@ body {
 .stress {
 	font-weight: bold;
 }
+
+#title {
+	text-align: center;
+}
+
+#resume {
+	background-color: white;
+}
+
+#bio {
+	text-align: center;
+}
