@@ -16,7 +16,7 @@ body {
 }
 
 #title {
-	background-color: #E6B2FF;
+	background-color: #EBEBFF;
 	text-align: center;
 }
 
@@ -24,13 +24,13 @@ body {
 	background-color: white;
 }
 
-#bio {
-	background-color: #E6B2FF;
+.bio {
+	background-color: #EBEBFF;
 	text-align: center;
 }
 
 .menu {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #E6B2FF;
+	background-color: #EBEBFF;
 }
