@@ -1,7 +1,8 @@
 body {
 	font-family: Courier, "Lucinda Console";
 	font-size: 15px;
-	background-image: images/cascades.jpg;
+	background-image: url("cascades.jpg");
+	background-image: no-repeat;
 	background-position: center;
 }
 
