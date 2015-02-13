@@ -2,9 +2,6 @@ body {
 	font-family: Courier, "Lucinda Console";
 	font-size: 15px;
 	background: url("cascades.jpg") no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
 	background-size: cover;
 }
 
@@ -29,7 +26,8 @@ body {
 #bio {
 	background-color: #EBEBFF;
 	text-align: center;
-	padding-top: 20%
+	padding-top: 30%
+	padding-right: 15%;
 	padding-left: 15%;
 	padding-right: 15%;
 }
